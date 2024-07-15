@@ -1,0 +1,39 @@
+{
+    "title": "Instagram Profile",
+    "description": "Notarize ownership of an Instagram profile",
+    "steps": [
+        {
+            "title": "Visit Instagram website",
+            "cta": "Go to https://www.instagram.com/accounts/edit/",
+            "action": "start"
+        },
+        {
+            "title": "Collect credentials",
+            "description": "Login to your account if you haven't already",
+            "cta": "Check cookies",
+            "action": "two"
+        },
+        {
+            "title": "Notarize Instagram profile",
+            "cta": "Notarize",
+            "action": "three",
+            "prover": true
+        }
+    ],
+    "hostFunctions": [
+        "redirect",
+        "notarize"
+    ],
+    "cookies": [
+        "instagram.com"
+    ],
+    "headers": [
+        "instagram.com"
+    ],
+    "requests": [
+        {
+            "url": "https://instagram.com/api/v1/accounts/edit/web_form_data/",
+            "method": "GET"
+        }
+    ]
+}
