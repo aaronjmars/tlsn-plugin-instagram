@@ -9,6 +9,11 @@ If you want to know more about the plugin boilerplate, check the [original repos
 ![Preview](https://i.imgur.com/ibLAILc.png)
 ![Preview](https://i.imgur.com/XR2tJyl.png)
 
+## Setting up the Chrome Extension
+
+Please make sure you use the latest version of the extension, as its not supported on older versions without plugins (don't run the Chrome Store version).
+[Set-up info](https://github.com/tlsnotary/tlsn-extension)
+
 ## Running the Instagram Plugin
 
 1. Build the `instagram_profile` plugin as explained below - or just refer to step 4 if you want to directly use instagram_profile.tlsn.wasm.
