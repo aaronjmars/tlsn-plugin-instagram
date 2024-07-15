@@ -5,9 +5,9 @@ If you want to know more about the plugin boilerplate, check the [original repos
 
 ## Preview
 
-![Preview](https://ethglobal.b0bd725bc77a3ea7cd3826627d01fcb6.r2.cloudflarestorage.com/projects/vw6s0/images/ybngAu1.jpeg)
-![Preview](https://ethglobal.b0bd725bc77a3ea7cd3826627d01fcb6.r2.cloudflarestorage.com/projects/vw6s0/images/j3IePoF.png)
-![Preview](https://ethglobal.b0bd725bc77a3ea7cd3826627d01fcb6.r2.cloudflarestorage.com/projects/vw6s0/images/KoVITPY.png)
+![Preview](https://i.imgur.com/u4KYxIo.jpeg)
+![Preview](https://i.imgur.com/ibLAILc.png)
+![Preview](https://i.imgur.com/XR2tJyl.png)
 
 ## Running the Instagram Plugin
 
